@@ -14,6 +14,7 @@ sudo service apache2 restart - Command to restart the apache2 service
 sudo htop - Gives the Task Manager type result from the linux server inside the powershell window
 
 # References
+
 1: Setting up hosting server on digital ocean: 
     https://www.codewithharry.com/blogpost/setup-ubuntu-20-04-server/
 2: Setting up SSH for passwordless connectivity with server: 
@@ -26,3 +27,7 @@ sudo htop - Gives the Task Manager type result from the linux server inside the 
     https://www.codewithharry.com/blogpost/install-phpmyadmin-ubuntu/
 6: Install HTTPS Secure Certificate on the DNS registered with the server IP:
     https://www.codewithharry.com/blogpost/get-https-ubuntu-using-lets-encrypt/
+7: Install LEMP (Linux, Engine-X, MySql, PHP) stack on the linux based server:
+    https://www.codewithharry.com/blogpost/lemp-stack-on-ubuntu-20/
+8: How to host Django Application using gunicorn & nginx in Production
+    https://www.codewithharry.com/blogpost/django-deploy-nginx-gunicorn/
