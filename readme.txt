@@ -31,3 +31,5 @@ sudo htop - Gives the Task Manager type result from the linux server inside the 
     https://www.codewithharry.com/blogpost/lemp-stack-on-ubuntu-20/
 8: How to host Django Application using gunicorn & nginx in Production
     https://www.codewithharry.com/blogpost/django-deploy-nginx-gunicorn/
+9: How to deploy a Node.js application in production:
+    https://www.codewithharry.com/blogpost/deploy-nodejs-app-on-ubuntu/
